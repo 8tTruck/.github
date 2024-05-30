@@ -33,6 +33,7 @@
     - ex) [Feature] 검색 기능 구현 #5
 - PR은 develop 브랜치로 보내기
 - 작성된 PR을 혼자서 merge하지 않기
+- 브랜치 네이밍 규칙 준수하기 ex) sinseunghyeon/Design, sinseunghyeon/FeatNotification
 
 **깃헙 커밋 규칙**
 
